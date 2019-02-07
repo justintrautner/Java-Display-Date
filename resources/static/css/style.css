@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+h2.date{
+	color: blue;
+}
+h2.time{
+	color: green;
+}
